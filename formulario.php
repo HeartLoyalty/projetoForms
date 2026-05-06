@@ -14,10 +14,10 @@
 
 	<label for="senha">Senha:</label>
 	<input type="password" name="senha" id="senha" maxlength="15" required size="15">
-
+	<div class="buttons">
 	<input type="submit" name="entrar" value="entrar">
-
 	<input type="reset" name="limpar" value="limpar">
+	</div>
 </form>
 
 <script src="js/script.js"></script>
